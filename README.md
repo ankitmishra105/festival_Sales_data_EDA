@@ -1,4 +1,4 @@
-# festival Sales data EDA using Python
+# Festival Sales data EDA using Python
 
 An exploratory data analysis project focused on understanding customer purchasing behavior during the Diwali sales period. The project uses Python and data visualization techniques to identify customer demographics, purchasing patterns, popular product categories, and key sales trends.
 
