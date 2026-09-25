@@ -1,1 +1,1 @@
-# festival-data-EDA
+# festival Sales data EDA using Python
