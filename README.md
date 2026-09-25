@@ -158,15 +158,3 @@ Possible improvements to the project include:
 ## Conclusion
 
 This project demonstrates how Python-based exploratory data analysis can transform raw retail transaction data into actionable business insights. By analyzing customer demographics, geography, occupations, products and sales amounts, businesses can better understand purchasing behavior and design more targeted marketing strategies.
-
-## Author
-
-**Ankit Mishra**
-
-B.Tech – Artificial Intelligence & Data Science
-
----
-
-### Tools & Technologies
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Jupyter Notebook` `Data Analysis` `EDA` `Data Visualization`
